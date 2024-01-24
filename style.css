@@ -214,16 +214,20 @@ body {
 }
 
 @media (max-width: 640px) {
+    .header {
+        margin: 0 3rem;
+    }
   .navbar .nav-links {
     font-size: 1.5rem;
     /* flex-wrap: nowrap; */
   }
   .navbar .nav-links {
-    gap: 0.3rem;
+    justify-content: space-between;
+    gap: 1rem;
   }
 
   .navbar .nav-links a {
-    font-size: 3vw;
+    font-size: 4vw;
   }
 
   .logo-img {
@@ -232,7 +236,12 @@ body {
     border-radius: 7px;
   }
   .r-header {
-    display: none;
+    /* display: none; */
+    gap: 1rem;
+  }
+
+  .r-header div img{
+    width: 30px;
   }
 
   
