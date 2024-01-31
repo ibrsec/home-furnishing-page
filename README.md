@@ -16,7 +16,7 @@
     <a href="https://github.com/ibrsec/home-furnishing-page"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/home-furnishing-page/" target="_blank">View Demo</a>
+    <a href="https://ibrsec.github.io/home-furnishing-page/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/home-furnishing-page/issues">Report Bug</a>
     ·
@@ -72,9 +72,15 @@ Use the `BLANK_README.md` to get started. -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---
+
 ## Figma 
+<a href="https://www.figma.com/file/NTIuGfL7Yl90xVZvqGRBOz/Furnishing-Project?type=design&node-id=0%3A1&mode=design&t=NPNVQOqOoyqvI81m-1">Figma Link</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+---
 
 ## Project Skeleton 
 
@@ -87,41 +93,23 @@ home-furnishing-project (folder)
 |----style.css
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+---
 
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk  search skills-->
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+* <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=red"> 
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-## Objective
-
-Build a page that is functionally similar to this: [Home Furnishing Project](https://hellenkuttery.github.io/home-furnishing/)
-
-### At the end of the project, following topics are to be covered;
-
-- HTML 
-- Css
-  - List Properties
-  - The Display Property
-  - The position Property
-  - Opacity / Transparency
-  - Units in CSS
-  - CSS Setting height and width
-  - CSS Outline
-  - CSS Combinators
-  - CSS Flex
 
