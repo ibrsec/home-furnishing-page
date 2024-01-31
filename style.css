@@ -20,7 +20,7 @@ html {
 }
 body {
   background-color: #efefef;
-  height: 100vh;
+  /* height: 100vh; */
   background-image: url(./images/background.jpg);
   background-size: cover;
   background-position: center;
@@ -89,10 +89,6 @@ body {
   gap: 4rem;
   /* flex-wrap: wrap; */
 }
-.search-box {
-  display: flex;
-  align-items: center;
-}
 
 .all-categories-dropdown {
   font-family: "Bellota", system-ui;
@@ -108,6 +104,11 @@ body {
 }
 
 /*? search box */
+.search-box {
+  display: flex;
+  align-items: center;
+}
+
 .search-box {
   position: relative;
   width: 13vw;
