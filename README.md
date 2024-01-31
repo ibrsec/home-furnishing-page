@@ -5,8 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ibrsec/home-furnishing-page">
-    <img src="images/logo.png" alt="Logo" width="80" height="80"
-    style="background-color:#fff; padding:4px: border-radius:5px;">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Furnishing Project</h3>
@@ -17,7 +16,7 @@
     <a href="https://github.com/ibrsec/home-furnishing-page"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/home-furnishing-page/">View Demo</a>
+    <a href="https://ibrsec.github.io/home-furnishing-page/" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/home-furnishing-page/issues">Report Bug</a>
     ·
