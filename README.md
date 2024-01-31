@@ -31,7 +31,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-     <li><a href="#">Figma</a></li>
+     <li><a href="#figma">Figma</a></li>
      <li><a href="#project-skeleton">Project Skeleton</a></li>
      <li><a href="#built-with">Built With</a></li>
     <!-- <li>
