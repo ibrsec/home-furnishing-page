@@ -16,7 +16,7 @@
     <a href="https://github.com/ibrsec/home-furnishing-page"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/home-furnishing-page/">View Demo</a>
+    <a href="https://home-furnishing-page-beta.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/home-furnishing-page/issues">Report Bug</a>
     ·
@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Home Furnishing Project](./images/home.gif)](https://ibrsec.github.io/home-furnishing-page/)
+[![Home Furnishing Project](./images/home.gif)](https://home-furnishing-page-beta.vercel.app/)
 
 <!-- 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
